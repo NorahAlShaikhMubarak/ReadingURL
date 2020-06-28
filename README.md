@@ -1,5 +1,5 @@
 # ReadingURL
-Python code written for the purpose of reading a URL content 
+Task2: Python code written for the purpose of reading a URL content 
 
 What is an HTTP request?
 
